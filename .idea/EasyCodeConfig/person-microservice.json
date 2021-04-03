@@ -1,0 +1,35 @@
+{
+  "name" : "Microservice",
+  "originTableName" : "microservice",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "ip",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "port",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "serveName",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.wzxlq",
+  "savePath" : "./src/main/java/com/wzxlq",
+  "saveModelName" : "easycode"
+}
